@@ -1,7 +1,7 @@
 # HSC IPT Study Resource
 Welcome to the HSC IPT wiki!
 
-![Testing](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/MARIST-CATHOLIC-COLLEGE-CREST-AND-COLOURS-REVEALED-748x1024.png/220px-MARIST-CATHOLIC-COLLEGE-CREST-AND-COLOURS-REVEALED-748x1024.png "Optional title")
+![Testing](https://mag.lexus.co.uk/wp-content/uploads/sites/3/2018/07/Lexus-LFA-engine-prototype.jpg "Optional title")
 
 [Multi Media Systems](https://github.com/OscarKusnierz/IPT_Task3/wiki/Multi-Media-Systems)
 
