@@ -8,13 +8,13 @@ import { HomeComponent } from './home/home.component';
 
 
 var firebaseConfig = {
-    apiKey: "AIzaSyA9L7DB1pnmyTlcA_SdVM_XaYQ7azQhU3s",
-    authDomain: "ipttask3.firebaseapp.com",
-    projectId: "ipttask3",
-    storageBucket: "ipttask3.appspot.com",
-    messagingSenderId: "374972791928",
-    appId: "1:374972791928:web:01085e90390f3591f3818d",
-    measurementId: "G-SVEM63NDV8"
+   apiKey: "AIzaSyAgiujc0UDd4MentSf2GC6A1Hm0C_N1H0A",
+    authDomain: "ipttask3-6b103.firebaseapp.com",
+    projectId: "ipttask3-6b103",
+    storageBucket: "ipttask3-6b103.appspot.com",
+    messagingSenderId: "608102750771",
+    appId: "1:608102750771:web:b499d78aa9494a6943e146",
+    measurementId: "G-R0SWM92GV9"
   };
 
 @NgModule({
